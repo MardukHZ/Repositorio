@@ -1,0 +1,29 @@
+190513 23:16:21 [Note] \bin\mysqld-opt.exe: ready for connections.
+Version: '5.0.67-community-nt'  socket: ''  port: 3311  MySQL Community Edition (GPL)
+190513 23:52:11 [Note] \bin\mysqld-opt.exe: Normal shutdown
+
+190513 23:52:12 [Note] \bin\mysqld-opt.exe: Shutdown complete
+
+190610 23:48:30 [Note] \bin\mysqld-opt.exe: ready for connections.
+Version: '5.0.67-community-nt'  socket: ''  port: 3311  MySQL Community Edition (GPL)
+190611  0:12:02 [Note] \bin\mysqld-opt.exe: Normal shutdown
+
+190611  0:12:02 [Note] \bin\mysqld-opt.exe: Shutdown complete
+
+190611 20:30:06 [Note] \bin\mysqld-opt.exe: ready for connections.
+Version: '5.0.67-community-nt'  socket: ''  port: 3311  MySQL Community Edition (GPL)
+190612 23:46:49 [Note] \bin\mysqld-opt.exe: ready for connections.
+Version: '5.0.67-community-nt'  socket: ''  port: 3311  MySQL Community Edition (GPL)
+190613  0:16:21 [Note] \bin\mysqld-opt.exe: Normal shutdown
+
+190613  0:16:21 [Note] \bin\mysqld-opt.exe: Shutdown complete
+
+190711 12:38:16 [Note] \bin\mysqld-opt.exe: ready for connections.
+Version: '5.0.67-community-nt'  socket: ''  port: 3311  MySQL Community Edition (GPL)
+190711 12:38:16 [ERROR] mysqld: Got error 10038 from select
+190711 13:24:49 [ERROR] mysqld: Got error 10038 from select
+190711 14:06:25 [ERROR] mysqld: Got error 10038 from select
+190711 14:46:12 [ERROR] mysqld: Got error 10038 from select
+190711 15:28:03 [ERROR] mysqld: Got error 10038 from select
+190711 16:08:47 [ERROR] mysqld: Got error 10038 from select
+190711 16:51:24 [ERROR] mysqld: Got error 10038 from select
