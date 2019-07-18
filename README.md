@@ -26,9 +26,15 @@ Posteriormente se nos abrira una ventana para ingresar el siguiente comando:
 
 Abriremos una ventana de comando en el cual colocaremos lo siguiente:
 
-   cd "nombre proyecto" 
+    cd "nombre proyecto" 
+    
+En este caso
 
-   npm run start
+    cd my-app
+
+posteriormente ejecutamos
+
+    npm run start
    
 Con esto se nos abrira una ventana en el navegador por defecto, la cual no utilizaremos,
 si no que usaremos la puesta en el siguiente paso
