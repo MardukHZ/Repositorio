@@ -47,3 +47,4 @@ Al utilizar Chrome por defecto no nos permite ejecutar el servidor jetty y React
     
 Con esto ya podremos abrir nuestra pagina web con __http://localhost:8080/__ para el servidor jetty
 y __http://localhost:3000/__ para la pagina a travez de React.
+
