@@ -20,4 +20,24 @@ esto nos permitira tener una version portable de una base de datos MYSQL
 Cuando importamos el proyecto __activeweb-simple-master__ a NetBeans seleccionaremos la opcion *Run Maven/goals*
 Posteriormente se nos abrira una ventana para ingresar el siguiente comando:
 
---jetty:run--
+    jetty:run
+
+<h3>3.Iniciar React</h3>
+
+Abriremos una ventana de comando en el cual colocaremos lo siguiente:
+
+   cd "nombre proyecto" 
+   
+   npm run start
+   
+Con esto se nos abrira una ventana en el navegador por defecto, la cual no utilizaremos,
+si no que usaremos la puesta en el siguiente paso
+
+<h3>3.Ejecutar Chrome sin CORS</h3>
+
+Al utilizar Chrome por defecto no nos permite ejecutar el servidor jetty y React al mismo tiempo por lo que ejecutaremos los siguientes comandos en una ventana de comandos:
+
+    "C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" --disable-web-security --disable-gpu --user-data-dir=~/chromeTemp
+    
+Con esto ya podremos abrir nuestra pagina web con __http://localhost:8080/__ para el servidor jetty
+y __http://localhost:3000/__ para la pagina a travez de React.
