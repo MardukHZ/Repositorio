@@ -3,10 +3,10 @@
 Para la ejecucion de esta aplicacion deberemos seguir los siguientes pasos:
 
 <ol>
-  <li>*Iniciar Mini_Server_11*</li>
-  <li>*Iniciar el servidor jetty*</li>
-  <li>*Iniciar React*</li>
-  <li>*Ejecutar Chrome sin CORS*</li>
+  <h6><li>Iniciar Mini_Server_11</li></h6>
+  <h6><li>Iniciar el servidor jetty</li></h6>
+  <h6><li>Iniciar React</li></h6>
+  <h6><li>Ejecutar Chrome sin CORS</li></h6>
 </ol>
 
 
@@ -20,4 +20,4 @@ esto nos permitira tener una version portable de una base de datos MYSQL
 Cuando importamos el proyecto __activeweb-simple-master__ a NetBeans seleccionaremos la opcion *Run Maven/goals*
 Posteriormente se nos abrira una ventana para ingresar el siguiente comando:
 
-´jetty:run´
+--jetty:run--
