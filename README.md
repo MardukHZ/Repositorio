@@ -10,6 +10,6 @@ Para la ejecucion de esta aplicacion deberemos seguir los siguientes pasos:
 </ol>
 
 <ol>
-  <h3><li>Iniciar Mini_server_11</li></h3>
+<h3><li>Iniciar Mini_server_11</li></h3>
 
 </ol>
